@@ -24,6 +24,7 @@ ID: `gta6.locations.index`
 | `gta6.location.jack-of-hearts` | Jack of Hearts | [jack-of-hearts.md](jack-of-hearts.md) | CONFIRMED / SHOWN |
 | `gta6.location.effluvia` | Effluvia | [effluvia.md](effluvia.md) | SHOWN |
 | `gta6.location.megamundo` | Megamundo | [megamundo.md](megamundo.md) | SHOWN |
+| `gta6.location.sahara-arena` | Sahara Arena | [sahara-arena.md](sahara-arena.md) | HIGH CONFIDENCE (GI) |
 
 ## Бизнесы и гаражи Ultimate / VVC
 

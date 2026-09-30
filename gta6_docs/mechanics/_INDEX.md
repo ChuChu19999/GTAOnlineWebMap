@@ -14,11 +14,13 @@ ID: `gta6.mechanics.index`
 | Бой | [combat.md](combat.md) | PARTIAL |
 | Быт / RPG | [living-rpg-systems.md](living-rpg-systems.md) | PARTIAL |
 | Активности | [activities.md](activities.md) | PARTIAL |
+| Погода | [weather-system.md](weather-system.md) | PARTIAL |
+| Животные | [wildlife.md](wildlife.md) | PARTIAL |
 | Прямая трансляция | [livestream.md](livestream.md) | PARTIAL |
 | Online / свободный мир | — | UNKNOWN → [online/](../online/README.md) |
 
 ## Следующие задачи
 
-1. Проход Расширенного показа с таймкодами (метки минут).
-2. Сверка терминов Famitsu TRANSLATION с английским IGN.
-3. Описи только SHOWN по Trailer 1 / Trailer 2 (легче, чем Расширенный показ).
+1. Мониторинг Newswire / Support / магазинов до 19.11.
+2. При полном тексте GI Issue 382 — сверить цитаты с карточками.
+3. После 19.11 — патчи дня выхода.

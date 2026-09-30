@@ -16,10 +16,20 @@ ID: `gta6.location.leonida`
 
 См. [индекс локаций](_INDEX.md): Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia, Mount Kalaga.
 
+## Масштаб (разработчик)
+
+Aaron Garbut (Game Informer, 2026-09-29): самый большой мир Rockstar на данный момент; примерно **вдвое больше** карты GTA V; упор на плотность и интерьеры — HIGH CONFIDENCE.
+
+## Погода и животные
+
+- [Погода](../mechanics/weather-system.md)
+- [Животные](../mechanics/wildlife.md)
+
 ## Источники
 
 - https://www.rockstargames.com/VI
+- [Game Informer / сводка](../sources/2026-09-game-informer-leonida.md)
 
 ## Достоверность
 
-CONFIRMED
+Имя штата и шесть регионов: CONFIRMED. Оценка «вдвое больше GTA V»: HIGH CONFIDENCE (цитата через GI).

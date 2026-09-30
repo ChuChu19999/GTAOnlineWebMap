@@ -11,6 +11,7 @@ ID: `gta6.economy.retail-pricing`
 | Standard Edition | $79.99 | CONFIRMED |
 | Ultimate Edition | $99.99 | CONFIRMED / HIGH CONFIDENCE |
 | Апгрейд до Ultimate Edition | ~$20 | HIGH CONFIDENCE (магазин) |
+| The Goodtime State – Vice City Collection (мерч) | $399.99 | HIGH CONFIDENCE (магазин Rockstar; игра не входит) |
 
 ## Связанная монетизация (существующие продукты Rockstar)
 

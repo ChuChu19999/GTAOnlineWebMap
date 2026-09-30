@@ -28,8 +28,8 @@ ID: `gta6.mechanic.activities`
 - Уличные гонки (винилы / подсветка) → [street-race-car-shown](../vehicles/special/street-race-car-shown.md)
 - Трасса / гонка в стиле GT (~16 машин) → [gt-race-car-shown](../vehicles/special/gt-race-car-shown.md)
 - Оффроуд нескольких классов (~12: байки, ATV, грузовики) → [dirt-bike](../vehicles/motorcycles/dirt-bike-shown.md), [atv](../vehicles/special/atv-shown.md)
-- Электросамокаты / мобильные скутеры → [электросамокат](../vehicles/special/электросамокат-shown.md), [mobility](../vehicles/special/mobility-scooter-shown.md)
-- Jet ski / аэроглиссер / Lure Predator → [jet-ski](../vehicles/boats/jet-ski-shown.md), [аэроглиссер](../vehicles/boats/аэроглиссер-shown.md), [lure-predator](../vehicles/boats/lure-predator.md)
+- Электросамокаты / скутеры для маломобильных → [e-scooter](../vehicles/special/e-scooter-shown.md), [mobility](../vehicles/special/mobility-scooter-shown.md)
+- Гидроцикл / аэроглиссер / Lure Predator → [jet-ski](../vehicles/boats/jet-ski-shown.md), [airboat](../vehicles/boats/airboat-shown.md), [lure-predator](../vehicles/boats/lure-predator.md)
 - Туристические автобусы (мир) → [leonida-tour-bus](../vehicles/special/leonida-tour-bus-shown.md)
 
 ### Преступления / навык
@@ -42,11 +42,15 @@ ID: `gta6.mechanic.activities`
 - Танцы и выпивка в клубе
 - Стрип-клуб (Jack of Hearts)
 - Смотреть / участвовать в прямой трансляции → [livestream.md](livestream.md)
+- Бильярд; мини-гольф; зоопарк — HIGH CONFIDENCE (Game Informer 2026-09-29)
+- Быстрое перемещение: приложение райдшеринга, разговор с пассажирами — HIGH CONFIDENCE (GI)
 
 ### Взаимодействие с миром
 
 - Гладить / ругать / изучать животных (собака)
 - Приветствовать / провоцировать NPC (нажатие + контекстное меню в духе RDR2 — COMMUNITY VERIFIED)
+- Погода и фауна: [погода](weather-system.md), [животные](wildlife.md)
+
 
 ## Связанное
 
